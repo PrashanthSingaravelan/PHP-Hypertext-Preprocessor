@@ -13,8 +13,7 @@ function test1() {
 test1();
 echo nl2br("\nThe global variable x=$x can be accessed only outside the function");
 ##############################################################################
-
-##############################################################################					
+				
 					     /*Local variable*/
 function test2() {
 	$y=10;
